@@ -4,3 +4,4 @@ This repository contains the complete set of experiments work completed as part 
 
 Lab 1 : This experiment loads the US Housing dataset from Kaggle using Pandas, explores its structure using head(), dtypes, info(), and describe(), and visualizes relationships between features using histograms, pairplots, scatter plots, and correlation analysis. Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn
 
+Lab 2: This experiment demonstrates data preprocessing on the USA Housing dataset, including dataset inspection, handling categorical data, feature-target separation, standardization using StandardScaler, and visualization to highlight the importance of feature scaling.
