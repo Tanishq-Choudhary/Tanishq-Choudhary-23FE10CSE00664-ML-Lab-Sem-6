@@ -15,3 +15,5 @@ Lab 1 : Implement Python programming constructs and libraries such as NumPy and 
 Lab 2 : Perform data cleaning, preprocessing, and visualization to prepare datasets for machine learning tasks. (isnull, not null, dropna, fillna,astype, rename, replace,) (plot, line, bar, scatter, histogram, boxplot)
 
 Lab 3 : Apply descriptive statistical techniques to summarize and interpret datasets. 
+
+Lab 4 : Aim: This experiment loads the assigned CKD dataset and applies feature scaling, encoding, and feature selection techniques to improve model performance.
