@@ -16,4 +16,6 @@ Lab 2 : Perform data cleaning, preprocessing, and visualization to prepare datas
 
 Lab 3 : Apply descriptive statistical techniques to summarize and interpret datasets. 
 
-Lab 4 : Aim: This experiment loads the assigned CKD dataset and applies feature scaling, encoding, and feature selection techniques to improve model performance.
+Lab 4 : This experiment loads the assigned CKD dataset and applies feature scaling, encoding, and feature selection techniques to improve model performance.
+
+Lab 5 : To preprocess and analyze the CKD dataset, build and evaluate a Logistic Regression classifier for CKD detection, and apply Logistic Regression to the USA Housing dataset to demonstrate why it is unsuitable for regression problems.
