@@ -25,3 +25,5 @@ Lab 6 : To implement and evaluate a Support Vector Machine (SVM) classifier on t
 Lab 7 : To implement a Decision Tree classifier on the CKD dataset to predict disease status and analyze feature importance and model performance.
 
 Lab 8 : To apply K-Means clustering on the CKD dataset to group patients based on similarity, determine optimal clusters using the Elbow Method, and visualize clustering results.
+
+Lab 9: To implement and analyze a Random Forest classifier on the CKD dataset for accurate prediction of Chronic Kidney Disease and to evaluate its performance using various metrics and feature importance analysis.
