@@ -19,3 +19,9 @@ Lab 3 : Apply descriptive statistical techniques to summarize and interpret data
 Lab 4 : This experiment loads the assigned CKD dataset and applies feature scaling, encoding, and feature selection techniques to improve model performance.
 
 Lab 5 : To preprocess and analyze the CKD dataset, build and evaluate a Logistic Regression classifier for CKD detection, and apply Logistic Regression to the USA Housing dataset to demonstrate why it is unsuitable for regression problems.
+
+Lab 6 : To implement and evaluate a Support Vector Machine (SVM) classifier on the CKD dataset for disease prediction using feature scaling and classification metrics.
+
+Lab 7 : To implement a Decision Tree classifier on the CKD dataset to predict disease status and analyze feature importance and model performance.
+
+Lab 8 : To apply K-Means clustering on the CKD dataset to group patients based on similarity, determine optimal clusters using the Elbow Method, and visualize clustering results.
